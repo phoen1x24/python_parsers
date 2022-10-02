@@ -1,0 +1,2218 @@
+{
+    "0": {
+        "success": true,
+        "messages": [],
+        "body": {
+            "products": [
+                {
+                    "productId": "20072560",
+                    "name": "Холодильник Gorenje NRK6202AW4",
+                    "nameTranslit": "holodilnik-gorenje-nrk6202aw4",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20072560",
+                    "materialSource": "ERP",
+                    "modelName": "NRK6202AW4",
+                    "rating": {
+                        "star": 4.787878787878788,
+                        "count": 33,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20072560b.jpg",
+                    "brandId": "309",
+                    "brandName": "Gorenje",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20072560.jpg",
+                        "Pdb/20072560b.jpg",
+                        "Pdb/20072560b1.jpg",
+                        "Pdb/20072560b2.jpg",
+                        "Pdb/20072560b3.jpg",
+                        "Pdb/20072560b4.jpg",
+                        "Pdb/20072560b5.jpg",
+                        "Pdb/20072560b6.jpg",
+                        "Pdb/20072560s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "235",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "98",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20070161",
+                    "name": "Холодильник Candy CCRN 6180S",
+                    "nameTranslit": "holodilnik-candy-ccrn-6180s",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20070161",
+                    "materialSource": "ERP",
+                    "modelName": "CCRN 6180S",
+                    "rating": {
+                        "star": 4.869565217391305,
+                        "count": 46,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20070161b.jpg",
+                    "brandId": "49",
+                    "brandName": "Candy",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20070161.jpg",
+                        "Pdb/20070161b.jpg",
+                        "Pdb/20070161b1.jpg",
+                        "Pdb/20070161b2.jpg",
+                        "Pdb/20070161b3.jpg",
+                        "Pdb/20070161b4.jpg",
+                        "Pdb/20070161b5.jpg",
+                        "Pdb/20070161s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "227",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "106",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20036155",
+                    "name": "Холодильник Haier C2F637CWMV",
+                    "nameTranslit": "holodilnik-haier-c2f637cwmv",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20036155",
+                    "materialSource": "ERP",
+                    "modelName": "C2F637CWMV",
+                    "rating": {
+                        "star": 4.591715976331361,
+                        "count": 338,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20036155b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20036155.jpg",
+                        "Pdb/20036155b.jpg",
+                        "Pdb/20036155b1.jpg",
+                        "Pdb/20036155b2.jpg",
+                        "Pdb/20036155b3.jpg",
+                        "Pdb/20036155b4.jpg",
+                        "Pdb/20036155s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "278",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "108",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20036154",
+                    "name": "Холодильник Haier C2F637CFMV",
+                    "nameTranslit": "holodilnik-haier-c2f637cfmv",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20036154",
+                    "materialSource": "ERP",
+                    "modelName": "C2F637CFMV",
+                    "rating": {
+                        "star": 4.493765586034913,
+                        "count": 401,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20036154b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20036154.jpg",
+                        "Pdb/20036154b.jpg",
+                        "Pdb/20036154b1.jpg",
+                        "Pdb/20036154b2.jpg",
+                        "Pdb/20036154b3.jpg",
+                        "Pdb/20036154b4.jpg",
+                        "Pdb/20036154s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "278",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "108",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20069366",
+                    "name": "Холодильник Haier CEF537AWG",
+                    "nameTranslit": "holodilnik-haier-cef537awg",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20069366",
+                    "materialSource": "ERP",
+                    "modelName": "CEF537AWG",
+                    "rating": {
+                        "star": 4.434210526315789,
+                        "count": 76,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20069366b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20069366.jpg",
+                        "Pdb/20069366b.jpg",
+                        "Pdb/20069366b1.jpg",
+                        "Pdb/20069366b2.jpg",
+                        "Pdb/20069366b3.jpg",
+                        "Pdb/20069366s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "263",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "105",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20080442",
+                    "name": "Холодильник Gorenje NRK6191PS4",
+                    "nameTranslit": "holodilnik-gorenje-nrk6191ps4",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20080442",
+                    "materialSource": "ERP",
+                    "modelName": "NRK6191PS4",
+                    "rating": {
+                        "star": 4.961538461538462,
+                        "count": 26,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20080442b.jpg",
+                    "brandId": "309",
+                    "brandName": "Gorenje",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20080442.jpg",
+                        "Pdb/20080442b.jpg",
+                        "Pdb/20080442b1.jpg",
+                        "Pdb/20080442b2.jpg",
+                        "Pdb/20080442b3.jpg",
+                        "Pdb/20080442b4.jpg",
+                        "Pdb/20080442b5.jpg",
+                        "Pdb/20080442b6.jpg",
+                        "Pdb/20080442b7.jpg",
+                        "Pdb/20080442b8.jpg",
+                        "Pdb/20080442s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "96",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "204",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20062328",
+                    "name": "Холодильник Haier C2F636CWFD",
+                    "nameTranslit": "holodilnik-haier-c2f636cwfd",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20062328",
+                    "materialSource": "ERP",
+                    "modelName": "C2F636CWFD",
+                    "rating": {
+                        "star": 4.453488372093023,
+                        "count": 86,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20062328b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20062328.jpg",
+                        "Pdb/20062328b.jpg",
+                        "Pdb/20062328b1.jpg",
+                        "Pdb/20062328b2.jpg",
+                        "Pdb/20062328b3.jpg",
+                        "Pdb/20062328b4.jpg",
+                        "Pdb/20062328s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "256",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "108",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20035898",
+                    "name": "Холодильник Haier C2F636CXMV",
+                    "nameTranslit": "holodilnik-haier-c2f636cxmv",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20035898",
+                    "materialSource": "ERP",
+                    "modelName": "C2F636CXMV",
+                    "rating": {
+                        "star": 4.517786561264822,
+                        "count": 506,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20035898b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20035898.jpg",
+                        "Pdb/20035898b.jpg",
+                        "Pdb/20035898b1.jpg",
+                        "Pdb/20035898b21.jpg",
+                        "Pdb/20035898b22.jpg",
+                        "Pdb/20035898b23.jpg",
+                        "Pdb/20035898b26.jpg",
+                        "Pdb/20035898s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "256",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "108",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20082424",
+                    "name": "Холодильник Thomson BFC30EI03",
+                    "nameTranslit": "holodilnik-thomson-bfc30ei03",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20082424",
+                    "materialSource": "ERP",
+                    "modelName": "BFC30EI03",
+                    "rating": {
+                        "star": 4.666666666666667,
+                        "count": 12,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20082424b.jpg",
+                    "brandId": "16",
+                    "brandName": "Thomson",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20082424.jpg",
+                        "Pdb/20082424b.jpg",
+                        "Pdb/20082424b1.jpg",
+                        "Pdb/20082424b2.jpg",
+                        "Pdb/20082424b3.jpg",
+                        "Pdb/20082424b4.jpg",
+                        "Pdb/20082424b5.jpg",
+                        "Pdb/20082424b7.jpg",
+                        "Pdb/20082424s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "инверторный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "257",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "94",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 85,
+                            "name": "Тип управления",
+                            "value": "сенсорный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 10,
+                            "measure": null
+                        },
+                        {
+                            "id": 217,
+                            "name": "Тип освещения",
+                            "value": "LED",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 12,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20078182",
+                    "name": "Холодильник Gorenje NRK620EABXL4",
+                    "nameTranslit": "holodilnik-gorenje-nrk620eabxl4",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20078182",
+                    "materialSource": "ERP",
+                    "modelName": "NRK620EABXL4",
+                    "rating": {
+                        "star": 4.928571428571429,
+                        "count": 14,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20078182b.jpg",
+                    "brandId": "309",
+                    "brandName": "Gorenje",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20078182.jpg",
+                        "Pdb/20078182b.jpg",
+                        "Pdb/20078182b1.jpg",
+                        "Pdb/20078182b10.jpg",
+                        "Pdb/20078182b11.jpg",
+                        "Pdb/20078182b12.jpg",
+                        "Pdb/20078182b13.jpg",
+                        "Pdb/20078182b2.jpg",
+                        "Pdb/20078182b3.jpg",
+                        "Pdb/20078182b4.jpg",
+                        "Pdb/20078182b5.jpg",
+                        "Pdb/20078182b6.jpg",
+                        "Pdb/20078182b7.jpg",
+                        "Pdb/20078182b8.jpg",
+                        "Pdb/20078182b9.jpg",
+                        "Pdb/20078182s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "235",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "96",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20080441",
+                    "name": "Холодильник Gorenje NRK6191PW4",
+                    "nameTranslit": "holodilnik-gorenje-nrk6191pw4",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20080441",
+                    "materialSource": "ERP",
+                    "modelName": "NRK6191PW4",
+                    "rating": {
+                        "star": 4.714285714285714,
+                        "count": 28,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20080441b.jpg",
+                    "brandId": "309",
+                    "brandName": "Gorenje",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20080441.jpg",
+                        "Pdb/20080441b.jpg",
+                        "Pdb/20080441b1.jpg",
+                        "Pdb/20080441b2.jpg",
+                        "Pdb/20080441b3.jpg",
+                        "Pdb/20080441b4.jpg",
+                        "Pdb/20080441b5.jpg",
+                        "Pdb/20080441b6.jpg",
+                        "Pdb/20080441b7.jpg",
+                        "Pdb/20080441b8.jpg",
+                        "Pdb/20080441s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "204",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "96",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20070162",
+                    "name": "Холодильник Candy CCRN 6200W",
+                    "nameTranslit": "holodilnik-candy-ccrn-6200w",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20070162",
+                    "materialSource": "ERP",
+                    "modelName": "CCRN 6200W",
+                    "rating": {
+                        "star": 4.8125,
+                        "count": 48,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20070162b.jpg",
+                    "brandId": "49",
+                    "brandName": "Candy",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20070162.jpg",
+                        "Pdb/20070162b.jpg",
+                        "Pdb/20070162b1.jpg",
+                        "Pdb/20070162b2.jpg",
+                        "Pdb/20070162b3.jpg",
+                        "Pdb/20070162b4.jpg",
+                        "Pdb/20070162b5.jpg",
+                        "Pdb/20070162s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "264",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "106",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20038126",
+                    "name": "Холодильник Haier C2F637CCG",
+                    "nameTranslit": "holodilnik-haier-c2f637ccg",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20038126",
+                    "materialSource": "ERP",
+                    "modelName": "C2F637CCG",
+                    "rating": {
+                        "star": 4.708661417322834,
+                        "count": 127,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20038126b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20038126.jpg",
+                        "Pdb/20038126b.jpg",
+                        "Pdb/20038126b1.jpg",
+                        "Pdb/20038126b2.jpg",
+                        "Pdb/20038126b3.jpg",
+                        "Pdb/20038126b4.jpg",
+                        "Pdb/20038126b5.jpg",
+                        "Pdb/20038126s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "278",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "108",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20073024",
+                    "name": "Морозильный ларь Novex ND063142AW",
+                    "nameTranslit": "morozilnyi-lar-novex-nd063142aw",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20073024",
+                    "materialSource": "ERP",
+                    "modelName": "ND063142AW",
+                    "rating": {
+                        "star": 4.777777777777778,
+                        "count": 18,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20073024b.jpg",
+                    "brandId": "973",
+                    "brandName": "Novex",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "717",
+                        "name": "Морозильные камеры"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20073024.jpg",
+                        "Pdb/20073024b.jpg",
+                        "Pdb/20073024b1.jpg",
+                        "Pdb/20073024b2.jpg",
+                        "Pdb/20073024b3.jpg",
+                        "Pdb/20073024b4.jpg",
+                        "Pdb/20073024s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1561,
+                            "name": "Общий объем",
+                            "value": "142",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "142",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "ручная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 595,
+                            "name": "Класс энергоэффективности",
+                            "value": "A+",
+                            "nameDescription": null,
+                            "valueDescription": "Повышенная энергоэффективность.",
+                            "priority": 5,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20039764",
+                    "name": "Холодильник Beko RCSK 335M20 W",
+                    "nameTranslit": "holodilnik-beko-rcsk-335m20-w",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20039764",
+                    "materialSource": "ERP",
+                    "modelName": "RCSK 335M20 W",
+                    "rating": {
+                        "star": 4.78125,
+                        "count": 96,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20039764b.jpg",
+                    "brandId": "863",
+                    "brandName": "Beko",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20039764.jpg",
+                        "Pdb/20039764b.jpg",
+                        "Pdb/20039764b1.jpg",
+                        "Pdb/20039764b2.jpg",
+                        "Pdb/20039764b3.jpg",
+                        "Pdb/20039764b4.jpg",
+                        "Pdb/20039764s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "213",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "118",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "капельное",
+                            "nameDescription": null,
+                            "valueDescription": "Для размораживания используется капельная система, функционирование которой не требует вмешательства человека.",
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "ручная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20035358",
+                    "name": "Морозильная камера Beko RFNK 290 T21W",
+                    "nameTranslit": "morozilnaya-kamera-beko-rfnk-290-t21w",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20035358",
+                    "materialSource": "ERP",
+                    "modelName": "RFNK 290 T21W",
+                    "rating": {
+                        "star": 4.761467889908257,
+                        "count": 109,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20035358b.jpg",
+                    "brandId": "863",
+                    "brandName": "Beko",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "717",
+                        "name": "Морозильные камеры"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20035358.jpg",
+                        "Pdb/20035358b.jpg",
+                        "Pdb/20035358b21.jpg",
+                        "Pdb/20035358b23.jpg",
+                        "Pdb/20035358b26.jpg",
+                        "Pdb/20035358s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1561,
+                            "name": "Общий объем",
+                            "value": "255",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 595,
+                            "name": "Класс энергоэффективности",
+                            "value": "A+",
+                            "nameDescription": null,
+                            "valueDescription": "Повышенная энергоэффективность.",
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1605,
+                            "name": "Мощность замораживания",
+                            "value": "16",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "кг/сутки"
+                        }
+                    ]
+                },
+                {
+                    "productId": "20077298",
+                    "name": "Холодильник Haier CEF535AWG",
+                    "nameTranslit": "holodilnik-haier-cef535awg",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20077298",
+                    "materialSource": "ERP",
+                    "modelName": "CEF535AWG",
+                    "rating": {
+                        "star": 4.857142857142857,
+                        "count": 21,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20077298b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20077298.jpg",
+                        "Pdb/20077298b.jpg",
+                        "Pdb/20077298b1.jpg",
+                        "Pdb/20077298b2.jpg",
+                        "Pdb/20077298b3.jpg",
+                        "Pdb/20077298s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "241",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "105",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20033424",
+                    "name": "Холодильник Atlant ХМ 6021-031",
+                    "nameTranslit": "holodilnik-atlant-hm-6021-031",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20033424",
+                    "materialSource": "ERP",
+                    "modelName": "ХМ 6021-031",
+                    "rating": {
+                        "star": 4.8125,
+                        "count": 48,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20033424b.jpg",
+                    "brandId": "3305",
+                    "brandName": "Atlant",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20033424.jpg",
+                        "Pdb/20033424b.jpg",
+                        "Pdb/20033424b1.jpg",
+                        "Pdb/20033424b2.jpg",
+                        "Pdb/20033424b3.jpg",
+                        "Pdb/20033424b4.jpg",
+                        "Pdb/20033424s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "225",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "101",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "капельное",
+                            "nameDescription": null,
+                            "valueDescription": "Для размораживания используется капельная система, функционирование которой не требует вмешательства человека.",
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "ручная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20042938",
+                    "name": "Морозильный ларь Haier HCE143R",
+                    "nameTranslit": "morozilnyi-lar-haier-hce143r",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20042938",
+                    "materialSource": "ERP",
+                    "modelName": "HCE143R",
+                    "rating": {
+                        "star": 5,
+                        "count": 21,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20042938b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "717",
+                        "name": "Морозильные камеры"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20042938.jpg",
+                        "Pdb/20042938b.jpg",
+                        "Pdb/20042938b1.jpg",
+                        "Pdb/20042938b2.jpg",
+                        "Pdb/20042938b3.jpg",
+                        "Pdb/20042938b4.jpg",
+                        "Pdb/20042938s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1561,
+                            "name": "Общий объем",
+                            "value": "146",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "146",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "ручная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 595,
+                            "name": "Класс энергоэффективности",
+                            "value": "A+",
+                            "nameDescription": null,
+                            "valueDescription": "Повышенная энергоэффективность.",
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1605,
+                            "name": "Мощность замораживания",
+                            "value": "13",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "кг/сутки"
+                        }
+                    ]
+                },
+                {
+                    "productId": "20063629",
+                    "name": "Морозильная камера Beko FNMV5290T21S",
+                    "nameTranslit": "morozilnaya-kamera-beko-fnmv5290t21s",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20063629",
+                    "materialSource": "ERP",
+                    "modelName": "FNMV5290T21S",
+                    "rating": {
+                        "star": 4.892857142857143,
+                        "count": 28,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20063629b.jpg",
+                    "brandId": "863",
+                    "brandName": "Beko",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "717",
+                        "name": "Морозильные камеры"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20063629.jpg",
+                        "Pdb/20063629b.jpg",
+                        "Pdb/20063629b1.jpg",
+                        "Pdb/20063629b2.jpg",
+                        "Pdb/20063629b3.jpg",
+                        "Pdb/20063629s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1561,
+                            "name": "Общий объем",
+                            "value": "290",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "255",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 595,
+                            "name": "Класс энергоэффективности",
+                            "value": "A+",
+                            "nameDescription": null,
+                            "valueDescription": "Повышенная энергоэффективность.",
+                            "priority": 5,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20078734",
+                    "name": "Холодильник Beko B5RCNK403ZXBR",
+                    "nameTranslit": "holodilnik-beko-b5rcnk403zxbr",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20078734",
+                    "materialSource": "ERP",
+                    "modelName": "B5RCNK403ZXBR",
+                    "rating": {
+                        "star": 4.782608695652174,
+                        "count": 23,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20078734b.jpg",
+                    "brandId": "863",
+                    "brandName": "Beko",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20078734.jpg",
+                        "Pdb/20078734b.jpg",
+                        "Pdb/20078734b2.jpg",
+                        "Pdb/20078734b3.jpg",
+                        "Pdb/20078734b4.jpg",
+                        "Pdb/20078734b5.jpg",
+                        "Pdb/20078734s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "инверторный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "257",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "100",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20078729",
+                    "name": "Холодильник Beko B5RCNK403ZW",
+                    "nameTranslit": "holodilnik-beko-b5rcnk403zw",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20078729",
+                    "materialSource": "ERP",
+                    "modelName": "B5RCNK403ZW",
+                    "rating": {
+                        "star": 4.7894736842105265,
+                        "count": 19,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20078729b.jpg",
+                    "brandId": "863",
+                    "brandName": "Beko",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20078729.jpg",
+                        "Pdb/20078729b.jpg",
+                        "Pdb/20078729b1.jpg",
+                        "Pdb/20078729b2.jpg",
+                        "Pdb/20078729b3.jpg",
+                        "Pdb/20078729b4.jpg",
+                        "Pdb/20078729b5.jpg",
+                        "Pdb/20078729b6.jpg",
+                        "Pdb/20078729b7.jpg",
+                        "Pdb/20078729s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "инверторный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "257",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "100",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20039865",
+                    "name": "Холодильник Haier C3F532CWG",
+                    "nameTranslit": "holodilnik-haier-c3f532cwg",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20039865",
+                    "materialSource": "ERP",
+                    "modelName": "C3F532CWG",
+                    "rating": {
+                        "star": 4.6,
+                        "count": 90,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20039865b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20039865.jpg",
+                        "Pdb/20039865b.jpg",
+                        "Pdb/20039865b1.jpg",
+                        "Pdb/20039865b2.jpg",
+                        "Pdb/20039865b3.jpg",
+                        "Pdb/20039865b4.jpg",
+                        "Pdb/20039865s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "205",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "108",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20051682",
+                    "name": "Холодильник Haier C2F637CGG",
+                    "nameTranslit": "holodilnik-haier-c2f637cgg",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20051682",
+                    "materialSource": "ERP",
+                    "modelName": "C2F637CGG",
+                    "rating": {
+                        "star": 4.7317073170731705,
+                        "count": 82,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/20051682b.jpg",
+                    "brandId": "1687",
+                    "brandName": "Haier",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "666",
+                        "name": "Холодильники с нижней морозильной камерой"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20051682.jpg",
+                        "Pdb/20051682b.jpg",
+                        "Pdb/20051682b1.jpg",
+                        "Pdb/20051682b2.jpg",
+                        "Pdb/20051682b3.jpg",
+                        "Pdb/20051682b4.jpg",
+                        "Pdb/20051682s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 1599,
+                            "name": "Тип компрессора",
+                            "value": "стандартный",
+                            "nameDescription": "Указывает на тип центрального конструктивного модуля холодильника. Существуют линейные и инверторные компрессоры. Главное отличие заключается в принципе работы: линейные сопряжены с датчиком температуры и включаются/выключаются периодически при отклонении от заданных параметров. Инверторные работают постоянно. Большинство современных холодильников оснащаются инверторными компрессорами, так как они потребляют меньше энергии, чем линейные, более долговечны и издают монотонный шум без резких повышений громкости (как происходит при запуске линейных агрегатов).",
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 1600,
+                            "name": "Объем холодильной камеры",
+                            "value": "278",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1601,
+                            "name": "Объем морозильной камеры",
+                            "value": "108",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1596,
+                            "name": "Размораживание холодильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1597,
+                            "name": "Размораживание морозильной камеры",
+                            "value": "No Frost",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
